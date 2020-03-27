@@ -23,6 +23,7 @@
 입력 문장: 어제 조카랑 ‘겨울 왕국’을 봤어.
   - 파파고 번역: I saw ‘Winter Kingdom’ with my nephew yesterday.
   - 구글 번역기: I saw your niece and the Winter Kingdom yesterday.
+  
 위 번역 결과는 파파고, 구글 번역기를 사용한 것으로 ‘겨울 왕국(frozen)’을 Winter Kingdom 으로 오번역 하는 문제를 보인다.
 
 ### 2. conceptual design
